@@ -14,5 +14,6 @@ Currently i'm studying Angular and enhancing my Javascript skills.
 ## <a href="https://www.linkedin.com/in/matteopiga/">Contact me on Linkedin</a>
 <a href="https://www.linkedin.com/in/matteopiga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50px"></a>
 <hr>
+
 <i>"Per aspera ad astra"</i>
 
