@@ -26,8 +26,8 @@ Currently i'm working in a tech company and every day i'm looking to improve my 
 <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/git.png" width="50px">
 <img src="https://loghi-famosi.com/wp-content/uploads/2021/01/Adobe-Photoshop-Logo.png" height="50px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="50px">
-
 </p>
+
 ## Books i'm reading right now:
 <img src="https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg" height="200px"> <img src="https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg" height="200px">
 
