@@ -8,7 +8,7 @@ Currently i'm studying Angular and enhancing my Javascript skills.
  <p align="center"><img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/html.png" width="50px">   <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/css3.png" width="50px"> <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/bootstrap-logo.svg" height="50px">   <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/git.png" width="50px">
  <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/js.png" width="50px"><img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/ts.png" height="50px"><img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/ang.png" width="50px"><img src="https://loghi-famosi.com/wp-content/uploads/2021/01/Adobe-Photoshop-Logo.png" height="50px"></p>
  <img src="https://raw.githubusercontent.com/matteo10pi/matteo10pi/main/assets/java.png">
- <img src="https://github.com/matteo10pi/matteo10pi/main/assets/hibernate.png">
+ <img src="https://raw.githubusercontent.com/matteo10pi/matteo10pi/main/assets/hibernate.png">
 
 ## Books i'm reading right now:
 <img src="https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg" height="200px"> <img src="https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg" height="200px">
