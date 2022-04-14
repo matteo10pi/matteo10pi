@@ -7,7 +7,7 @@ Currently i'm studying Angular and enhancing my Javascript skills.
 
  <p align="center"><img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/html.png" width="50px">   <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/css3.png" width="50px"> <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/bootstrap-logo.svg" height="50px">   <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/git.png" width="50px">
  <img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/js.png" width="50px"><img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/ts.png" height="50px"><img src="https://github.com/matteo10pi/matteo10pi/blob/main/assets/ang.png" width="50px"><img src="https://loghi-famosi.com/wp-content/uploads/2021/01/Adobe-Photoshop-Logo.png" height="50px"></p>
- <img src="https://github.dev/matteo10pi/matteo10pi/blob/main/assets/java.png">
+ <img src="https://raw.githubusercontent.com/matteo10pi/matteo10pi/main/assets/java.png">
  https://github.dev/matteo10pi/matteo10pi/blob/main/assets/hibernate.png
 
 ## Books i'm reading right now:
